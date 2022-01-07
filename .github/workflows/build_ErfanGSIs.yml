@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/nio/official/RETEU/XT2125-4_NIO_RETEU_11_RRTS31.Q1-84-24-1-8_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://download.pixelexperience.org/changelog/mido/PixelExperience_Plus_mido-11.0-20211216-1807-OFFICIAL.zip/
   ROM_NAME: Generic
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
